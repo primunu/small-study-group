@@ -8,7 +8,6 @@
 ## 日時/場所
 - 毎週金曜日
 - 1hを想定
-- 米山/しもじの席
 - 12:00〜14:00
 
 ## ワークフロー
@@ -18,7 +17,7 @@
 	- ドライバーがガンガンコードを書くのはOK
 	- 作業モニタ/調べ物モニタを用意
 - OUTPUT
-	- scrapbox + github https://github.com/primunu/small-study-group
+	- scrapbox + github
 	- 今日の気付きを書く
 
 ## ルール
